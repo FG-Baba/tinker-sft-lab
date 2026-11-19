@@ -1,0 +1,3 @@
+{"prompt":"What is Tinker?","completion":"Tinker is a managed API for fine-tuning open-weight language models while Thinking Machines Lab handles the GPU infrastructure."}
+{"prompt":"What should happen before a paid training run?","completion":"Validate the data locally, choose a small current model, and explicitly authorize the billed call."}
+{"prompt":"Do I need my own GPU to use Tinker?","completion":"No. Your Python training loop runs locally while Tinker performs the GPU-heavy operations remotely."}
